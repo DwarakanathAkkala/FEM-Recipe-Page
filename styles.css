@@ -1,3 +1,14 @@
+
+@font-face {
+    font-family: "Outfit";
+    src: url("/assets/fonts/outfit/Outfit-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: "YoungSerif";
+    src: url("/assets/fonts/young-serif/YoungSerif-Regular.ttf");
+}
+
 body {
     padding: 0;
     margin: 0;
@@ -5,16 +16,49 @@ body {
 
 img {
     width: 100%;
+    color: hsl(330, 100%, 98%);
+    color: hsl(30, 54%, 90%);
+    color: hsl(30, 18%, 87%);
+    color: hsl(24, 5%, 18%);
+    color: hsl(14, 45%, 36%);
+    color: hsl(332, 51%, 32%);
+}
+
+section {
+    margin: 2rem;
+}
+
+h1 {
+    font-family: "YoungSerif", serif;
+    font-size: 2rem;
+    font-weight: 400;
+    color: hsl(24, 5%, 18%);
+}
+
+p {
+    font-size: 1rem;
+    font-family: "Outfit";
+    color: hsl(30, 10%, 34%);
+}
+
+@media screen and (max-width: 768px) {
+    .image-section {
+        margin: 0;
+    }
 }
 
 @media screen and (min-width: 1440px) {
+
     section {
         margin: 2rem;
     }
 
     img {
         border-radius: 12px;
-        object-fit: fill;
         height: 60vh;
+    }
+
+    p {
+        font-size: 1.25rem;
     }
 }
