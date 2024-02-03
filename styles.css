@@ -41,6 +41,25 @@ p {
     color: hsl(30, 10%, 34%);
 }
 
+.prep-time {
+    background-color: hsl(330, 100%, 98%);
+    font-family: "Outfit";
+    padding: 1rem;
+    border-radius: 12px;
+}
+
+h3, ul {
+    color: hsl(332, 51%, 32%);
+}
+
+li {
+    margin-bottom: 1rem;
+}
+
+span {
+    color: hsl(24, 5%, 18%);
+}
+
 @media screen and (max-width: 768px) {
     .image-section {
         margin: 0;
@@ -58,7 +77,7 @@ p {
         height: 60vh;
     }
 
-    p {
+    p, li, h3, span {
         font-size: 1.25rem;
     }
 }
