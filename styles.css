@@ -35,6 +35,13 @@ h1 {
     color: hsl(24, 5%, 18%);
 }
 
+h2 {
+    font-family: "YoungSerif", serif;
+    font-weight: 400;
+    font-size: 1.75rem;
+    color: hsl(14, 45%, 36%);
+}
+
 p {
     font-size: 1rem;
     font-family: "Outfit";
@@ -52,12 +59,21 @@ h3, ul {
     color: hsl(332, 51%, 32%);
 }
 
+span {
+    display: block;
+}
+
 li {
     margin-bottom: 1rem;
 }
 
 span {
     color: hsl(24, 5%, 18%);
+    font-family: "Outfit";
+}
+
+.ingredients ul, .ingredients span {
+    padding-left: 1rem;
 }
 
 @media screen and (max-width: 768px) {
