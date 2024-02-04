@@ -118,6 +118,7 @@ footer div {
     display: flex;
     justify-content: center;
     margin-bottom: 1rem;
+    align-content: baseline;
 }
 
 footer a {
