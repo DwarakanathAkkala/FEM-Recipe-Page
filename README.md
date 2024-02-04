@@ -37,20 +37,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-```html
-<ul>
-  <li>
-    <span><b>Total:</b> Approximately 10 minutes</span>
-  </li>
-  <li>
-    <span><b>Preparation:</b> 5 minutes</span>
-  </li>
-  <li>
-    <span><b>Cooking:</b> 5 minutes</span>
-  </li>
-</ul>
-```
-
 ```css
 /* - Awesome design of only one border without any gap between two columns is possible by the below "border-collapse" property. */
 
