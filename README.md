@@ -5,8 +5,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -15,14 +15,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Overview
 
-### Screenshot
-
-![Preview](./assets/work-previews/preview.png)
-
 ### Links
 
 - Solution URL: [https://github.com/DwarakanathAkkala/FEM-Recipe-Page]
 - Live Site URL: [https://fem-recipe-page-dwaraka.netlify.app/]
+
+### Screenshot
+
+![Preview](./assets/work-previews/preview.png)
 
 ## My process
 
