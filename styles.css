@@ -129,6 +129,7 @@ footer a {
 
 footer span {
     display: inline;
+    font-size: normal;
     color: hsl(332, 51%, 32%);
 }
 
