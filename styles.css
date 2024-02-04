@@ -45,12 +45,16 @@ p {
 
 .prep-time {
     background-color: hsl(330, 100%, 98%);
-    font-family: "Outfit";
+    font-family: "Outfit" ; 
     padding: 1rem;
     border-radius: 12px;
 }
 
-h3, ul, ol {
+.prep-time h2 {
+    font-family: "Outfit";
+}
+
+ul, ol {
     color: hsl(332, 51%, 32%);
 }
 
