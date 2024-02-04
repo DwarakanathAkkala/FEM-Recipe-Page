@@ -89,6 +89,32 @@ span {
     padding-left: 1rem;
 }
 
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 1rem;
+}
+
+tr {
+    margin-bottom: 1rem;
+}
+
+td {
+   font-family: "Outfit";
+   padding: 1rem;
+   color: hsl(30, 10%, 34%);
+   border-bottom: 1px solid hsl(30, 10%, 34%);
+}
+
+td:nth-child(even) {
+    color: hsl(332, 51%, 32%);
+    font-weight: bold;
+}
+
+.last-row-data {
+    border: none;
+}
+
 @media screen and (max-width: 768px) {
     .image-section {
         margin: 0;
