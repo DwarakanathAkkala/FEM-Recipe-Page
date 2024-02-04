@@ -21,8 +21,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://github.com/DwarakanathAkkala/FEM-Recipe-Page]
-- Live Site URL: [https://fem-recipe-page-dwaraka.netlify.app/]
+- Solution URL: https://github.com/DwarakanathAkkala/FEM-Recipe-Page
+- Live Site URL: https://fem-recipe-page-dwaraka.netlify.app/
 
 ## My process
 
