@@ -11,6 +11,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
+  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -21,9 +22,19 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Overview
 
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+
 ### Screenshot
 
+## Desktop Preview
+
 ![Preview](./assets/work-previews/desktop-preview.png)
+
+## Mobile Preview
 
 ![Mobile-Preview](./assets/work-previews/mobile-preview.png)
 
